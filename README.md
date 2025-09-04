@@ -43,7 +43,7 @@ Git 是一个开源的分布式版本控制系统，用于敏捷高效地处理�
 
 如果你在途中遇到了困难，可以随时联系我们。如果确实无法使用上面的方法提交，可以采用以下三种替代方法（不推荐）：
 
-- 在[**提交仓库**](https://github.com/zjjncsn/2025-evatech-joinus-submit-internal)中新建一个 `issue`，在里面放上你的**答题仓库**的链接。
+- 在[**提交仓库**](https://github.com/zjjncsn/2025-evatech-joinus-submit-internal)中新建一个 `issue`，在里面放上你的**答题仓库**进行RSA加密后的链接。
 
 - 将你的代码打包之后发到邮箱 `zjjncsn@163.com`。
 
