@@ -26,6 +26,12 @@ Git 是一个开源的分布式版本控制系统，用于敏捷高效地处理�
 1. 在代码托管平台（如 [GitHub](github.com)、[Gitee](gitee.com)）上新建一个远程 Git 仓库，用于提交你的作答，我们在后面叫它 `答题仓库`。**（仓库的结构：最外层放一个`README.md`文件，必须包含你的部门和姓名，可选提交一份和技术有关的自我介绍；之后每一题新建一个文件夹，将文件放在里面；请将仓库设为公开）**
 2. 在电脑上安装并配置好 `Git`。Windows 系统建议在 `WSL` 中安装。Linux 和 Mac OS 上直接安装即可。
 3. `Fork` 这个[`提交仓库`](https://github.com/zjjncsn/2025-evatech-joinus-submit-internal)（如果 GitHub 无法打开，可将链接中的 `github.com` 改为 `gitee.com` 后访问）。
+```
+提醒：题目中共有3个仓库
+1. 你自己的答题仓库
+2. [提交仓库](https://github.com/zjjncsn/2025-evatech-joinus-submit-internal)
+3. 题目仓库（本仓库）
+```
 4. 将其 `clone` 到本地，新建一个分支，名称随意（命令行clone以后可以使用 Visual Studio Code 打开这个文件夹，简化操作。但我们推荐初学者使用命令行完成 Git 相关的全部操作）。
 5. 在**提交仓库**的 `submissions` 文件夹下新建一个名为 `<你的昵称>.md` 的文件，在里面放入你第一步新建的**答题仓库**进行 **RSA加密后** 的链接。
 ```
